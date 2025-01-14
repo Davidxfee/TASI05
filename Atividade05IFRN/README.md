@@ -23,7 +23,7 @@ Configuração do Ambiente
 
 1. Clonar o Repositório
 
-git clone https://github.com/Davidxfee/Atividade05
+git clone https://github.com/Davidxfee/TASI05.git
 cd Atividade05
 
 2. Criar um Ambiente Virtual
